@@ -120,24 +120,32 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 > **Tags:** See [Tags](#-tags) for the Hermes-oriented tag definitions.
 >
 > **Other sort orders:** Plain GitHub Markdown has **no** interactive sort controls. Keep new additions in time order and use the taxonomy above to keep the list browsable.
+>
+> **Out-of-scope entries** (relative to [Scope](#-scope) **In scope**) are wrapped in HTML comments (`<!-- … -->`): they stay in the file for reference but are **hidden** on GitHub-rendered Markdown.
 
 ### 2026
 
-- [Foundation] (*arXiv'26_05*) **GraphFlow: An Architecture for Formally Verifiable Visual Workflows Enabling Reliable Agentic AI Automation**
-  [[📝 Paper](https://arxiv.org/abs/2605.14968)]
+<!--
+  - [Foundation] (*arXiv'26_05*) **GraphFlow: An Architecture for Formally Verifiable Visual Workflows Enabling Reliable Agentic AI Automation**
+    [[📝 Paper](https://arxiv.org/abs/2605.14968)]
 
-- [Foundation] (*arXiv'26_05*) **Holistic Evaluation and Failure Diagnosis of AI Agents**
-  [[📝 Paper](https://arxiv.org/abs/2605.14865)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_05*) **Holistic Evaluation and Failure Diagnosis of AI Agents**
+    [[📝 Paper](https://arxiv.org/abs/2605.14865)]
 
+-->
 - [Core] (*arXiv'26_05*) **Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model**
   [[📝 Paper](https://arxiv.org/abs/2605.14723)] [[💻 Code](https://github.com/FreedomIntelligence/SepsisAgent)]
 
 - [Foundation] (*arXiv'26_05*) **MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems**
   [[📝 Paper](https://arxiv.org/abs/2605.06623)] [[💻 Code](https://github.com/wangzx1219/MASPO)]
 
-- [Foundation] (*arXiv'26_05*) **SkillOS: Learning Skill Curation for Self-Evolving Agents**
-  [[📝 Paper](https://arxiv.org/abs/2605.06614)] [[💻 Code](https://github.com/EvolvingAgentsLabs/skillos)]
+<!--
+  - [Foundation] (*arXiv'26_05*) **SkillOS: Learning Skill Curation for Self-Evolving Agents**
+    [[📝 Paper](https://arxiv.org/abs/2605.06614)] [[💻 Code](https://github.com/EvolvingAgentsLabs/skillos)]
 
+-->
 - [Core] (*arXiv'26_05*) **NeuroAgent: LLM Agents for Multimodal Neuroimaging Analysis and Research**
   [[📝 Paper](https://arxiv.org/abs/2605.06584)]
 
@@ -147,9 +155,11 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Foundation] (*arXiv'26_05*) **TheraAgent: Self-Improving Therapeutic Agent for Precise and Comprehensive Treatment Planning**
   [[📝 Paper](https://arxiv.org/abs/2605.05963)]
 
-- [Foundation] (*arXiv'26_05*) **MemTier: Tiered Memory Architecture and Retrieval Bottleneck Analysis for Long-Running Autonomous AI Agents**
-  [[📝 Paper](https://arxiv.org/abs/2605.03675)]
+<!--
+  - [Foundation] (*arXiv'26_05*) **MemTier: Tiered Memory Architecture and Retrieval Bottleneck Analysis for Long-Running Autonomous AI Agents**
+    [[📝 Paper](https://arxiv.org/abs/2605.03675)]
 
+-->
 - [Core] (*arXiv'26_05*) **CuraView: A Multi-Agent Framework for Medical Hallucination Detection with GraphRAG-Enhanced Knowledge Verification**
   [[📝 Paper](https://arxiv.org/abs/2605.03476)]
 
@@ -159,9 +169,11 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Core] (*arXiv'26_05*) **An Empirical Study of Agent Skills for Healthcare: Practice, Gaps, and Governance**
   [[📝 Paper](https://arxiv.org/abs/2605.02709)]
 
-- [Foundation] (*arXiv'26_05*) **ARA: Agentic Reproducibility Assessment for Scalable Support of Scientific Peer-Review**
-  [[📝 Paper](https://arxiv.org/abs/2605.02651)] [[💻 Code](https://github.com/AndresLaverdeMarin/agentic_reproducibility_assessment)]
+<!--
+  - [Foundation] (*arXiv'26_05*) **ARA: Agentic Reproducibility Assessment for Scalable Support of Scientific Peer-Review**
+    [[📝 Paper](https://arxiv.org/abs/2605.02651)] [[💻 Code](https://github.com/AndresLaverdeMarin/agentic_reproducibility_assessment)]
 
+-->
 - [Core] (*arXiv'26_05*) **PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments**
   [[📝 Paper](https://arxiv.org/abs/2605.02240)]
 
@@ -189,9 +201,11 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Core] (*arXiv'26_04*) **NeuroClaw Technical Report: Closed-Loop Agentic AI for Executable and Reproducible Neuroimaging Research**
   [[📝 Paper](https://arxiv.org/abs/2604.24696)] [[🌐 Project](https://cuhk-aim-group.github.io/NeuroClaw/index.html)] [[💻 Code](https://github.com/CUHK-AIM-Group/NeuroClaw)]
 
-- [Foundation] (*arXiv'26_04*) **Skill Retrieval Augmentation for Agentic AI**
-  [[📝 Paper](https://arxiv.org/abs/2604.24594)] [[💻 Code](https://github.com/oneal2000/SR-Agents)]
+<!--
+  - [Foundation] (*arXiv'26_04*) **Skill Retrieval Augmentation for Agentic AI**
+    [[📝 Paper](https://arxiv.org/abs/2604.24594)] [[💻 Code](https://github.com/oneal2000/SR-Agents)]
 
+-->
 - [Foundation] (*arXiv'26_04*) **FastOMOP: A Foundational Architecture for Reliable Agentic Real-World Evidence Generation on OMOP CDM Data**
   [[📝 Paper](https://arxiv.org/abs/2604.24572)] [[💻 Code](https://github.com/fastomop)]
 
@@ -201,36 +215,48 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Core] (*arXiv'26_04*) **Agentic AI Platforms for Autonomous Training and Rule Induction of Human-Human and Virus-Human Protein-Protein Interactions**
   [[📝 Paper](https://arxiv.org/abs/2604.23924)]
 
-- [Foundation] (*arXiv'26_04*) **ClawTrace: Cost-Aware Tracing for LLM Agent Skill Distillation**
-  [[📝 Paper](https://arxiv.org/abs/2604.23853)] [[💻 Code](https://github.com/epsilla-cloud/clawtrace)]
+<!--
+  - [Foundation] (*arXiv'26_04*) **ClawTrace: Cost-Aware Tracing for LLM Agent Skill Distillation**
+    [[📝 Paper](https://arxiv.org/abs/2604.23853)] [[💻 Code](https://github.com/epsilla-cloud/clawtrace)]
 
+-->
 - [Core] (*arXiv'26_04*) **EndoGov: A knowledge-governed multi-agent expert system for endometrial cancer risk stratification**
   [[📝 Paper](https://arxiv.org/abs/2604.23802)]
 
 - [Eval] (*arXiv'26_04*) **Vibe Medicine: Redefining Biomedical Research Through Human-AI Co-Work**
   [[📝 Paper](https://arxiv.org/abs/2604.23674)]
 
-- [Background] (*arXiv'26_04*) **VeriLLMed: Interactive Visual Debugging of Medical Large Language Models with Knowledge Graphs**
-  [[📝 Paper](https://arxiv.org/abs/2604.23356)]
+<!--
+  - [Background] (*arXiv'26_04*) **VeriLLMed: Interactive Visual Debugging of Medical Large Language Models with Knowledge Graphs**
+    [[📝 Paper](https://arxiv.org/abs/2604.23356)]
 
-- [Foundation] (*arXiv'26_04*) **From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation**
-  [[📝 Paper](https://arxiv.org/abs/2604.21910)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_04*) **From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation**
+    [[📝 Paper](https://arxiv.org/abs/2604.21910)]
 
-- [Foundation] (*arXiv'26_04*) **Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models**
-  [[📝 Paper](https://arxiv.org/abs/2604.21860)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_04*) **Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models**
+    [[📝 Paper](https://arxiv.org/abs/2604.21860)]
 
-- [Foundation] (*arXiv'26_04*) **AEL: Agent Evolving Learning for Open-Ended Environments**
-  [[📝 Paper](https://arxiv.org/abs/2604.21725)] [[💻 Code](https://github.com/WujiangXu/AEL)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_04*) **AEL: Agent Evolving Learning for Open-Ended Environments**
+    [[📝 Paper](https://arxiv.org/abs/2604.21725)] [[💻 Code](https://github.com/WujiangXu/AEL)]
 
+-->
 - [Core] (*arXiv'26_04*) **Trustworthy Clinical Decision Support Using Meta-Predicates and Domain-Specific Languages**
   [[📝 Paper](https://arxiv.org/abs/2604.21263)]
 
 - [Core] (*arXiv'26_04*) **Agentic AI for Personalized Physiotherapy: A Multi-Agent Framework for Generative Video Training and Real-Time Pose Correction**
   [[📝 Paper](https://arxiv.org/abs/2604.21154)]
 
-- [Foundation] (*arXiv'26_04*) **Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks**
-  [[📝 Paper](https://arxiv.org/abs/2604.20987)] [[🌐 Project](https://wuxiyang1996.github.io/COSPLAY_page/)] [[💻 Code](https://github.com/wuxiyang1996/cos-play)]
+<!--
+  - [Foundation] (*arXiv'26_04*) **Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks**
+    [[📝 Paper](https://arxiv.org/abs/2604.20987)] [[🌐 Project](https://wuxiyang1996.github.io/COSPLAY_page/)] [[💻 Code](https://github.com/wuxiyang1996/cos-play)]
 
+-->
 - [Eval] (*arXiv'26_04*) **Can "AI" Be a Doctor? A Study of Empathy, Readability, and Alignment in Clinical LLMs**
   [[📝 Paper](https://arxiv.org/abs/2604.20791)]
 
@@ -246,15 +272,21 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Core] (*arXiv'26_04*) **AblateCell: A Reproduce-then-Ablate Agent for Virtual Cell Repositories**
   [[📝 Paper](https://arxiv.org/abs/2604.19606)]
 
-- [Foundation] (*arXiv'26_04*) **A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression**
-  [[📝 Paper](https://arxiv.org/abs/2604.19572)]
+<!--
+  - [Foundation] (*arXiv'26_04*) **A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression**
+    [[📝 Paper](https://arxiv.org/abs/2604.19572)]
 
-- [Foundation] (*ACL'26_04*) **From Experience to Skill: Multi-Agent Generative Engine Optimization via Reusable Strategy Learning**
-  [[📝 Paper](https://arxiv.org/abs/2604.19516)] [[💻 Code](https://github.com/Wu-beining/MAGEO)]
+-->
+<!--
+  - [Foundation] (*ACL'26_04*) **From Experience to Skill: Multi-Agent Generative Engine Optimization via Reusable Strategy Learning**
+    [[📝 Paper](https://arxiv.org/abs/2604.19516)] [[💻 Code](https://github.com/Wu-beining/MAGEO)]
 
-- [Foundation] (*arXiv'26_04*) **MDAgent: A Multi-Agent Framework for End-to-End Molecular Dynamics Research**
-  [[📝 Paper](https://arxiv.org/abs/2604.18622)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_04*) **MDAgent: A Multi-Agent Framework for End-to-End Molecular Dynamics Research**
+    [[📝 Paper](https://arxiv.org/abs/2604.18622)]
 
+-->
 - [Foundation] (*arXiv'26_04*) **First, Do No Harm (With LLMs): Mitigating Racial Bias via Agentic Workflows**
   [[📝 Paper](https://arxiv.org/abs/2604.18038)]
 
@@ -264,9 +296,11 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Core] (*arXiv'26_04*) **From Clinical Intent to Clinical Model: An Autonomous Coding-Agent Framework for Clinician-driven AI Development**
   [[📝 Paper](https://arxiv.org/abs/2604.17110)] [[💻 Code](https://github.com/zhaozh10/clinical-automata)]
 
-- [Foundation] (*arXiv'26_04*) **GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization**
-  [[📝 Paper](https://arxiv.org/abs/2604.17091)] [[💻 Code](https://github.com/lsdefine/GenericAgent)]
+<!--
+  - [Foundation] (*arXiv'26_04*) **GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization**
+    [[📝 Paper](https://arxiv.org/abs/2604.17091)] [[💻 Code](https://github.com/lsdefine/GenericAgent)]
 
+-->
 - [Core] (*arXiv'26_04*) **Agentic Large Language Models for Training-Free Neuro-Radiological Image Analysis**
   [[📝 Paper](https://arxiv.org/abs/2604.16729)]
 
@@ -276,9 +310,11 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Core] (*arXiv'26_04*) **RadAgent: A Tool-Using AI Agent for Stepwise Interpretation of Chest Computed Tomography**
   [[📝 Paper](https://arxiv.org/abs/2604.15231)] [[🌐 Project](https://rad-agent.github.io/)]
 
-- [Foundation] (*arXiv'26_04*) **Autogenesis: A Self-Evolving Agent Protocol**
-  [[📝 Paper](https://arxiv.org/abs/2604.15034)]
+<!--
+  - [Foundation] (*arXiv'26_04*) **Autogenesis: A Self-Evolving Agent Protocol**
+    [[📝 Paper](https://arxiv.org/abs/2604.15034)]
 
+-->
 - [Eval] (*arXiv'26_04*) **Can LLMs Score Medical Diagnoses and Clinical Reasoning as well as Expert Panels?**
   [[📝 Paper](https://arxiv.org/abs/2604.14892)]
 
@@ -288,9 +324,11 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Core] (*arXiv'26_04*) **Evo-MedAgent: Beyond One-Shot Diagnosis with Agents That Remember, Reflect, and Improve**
   [[📝 Paper](https://arxiv.org/abs/2604.14475)]
 
-- [Background] (*arXiv'26_04*) **Seeing Through Experts' Eyes: A Foundational Vision Language Model Trained on Radiologists' Gaze and Reasoning**
-  [[📝 Paper](https://arxiv.org/abs/2604.14316)]
+<!--
+  - [Background] (*arXiv'26_04*) **Seeing Through Experts' Eyes: A Foundational Vision Language Model Trained on Radiologists' Gaze and Reasoning**
+    [[📝 Paper](https://arxiv.org/abs/2604.14316)]
 
+-->
 - [Background] (*arXiv'26_04*) **Enhancing Reinforcement Learning for Radiology Report Generation with Evidence-aware Rewards and Self-correcting Preference Learning**
   [[📝 Paper](https://arxiv.org/abs/2604.13598)]
 
@@ -306,27 +344,35 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Core] (*ACL'26_04*) **Dialectic-Med: Mitigating Diagnostic Hallucinations via Counterfactual Adversarial Multi-Agent Debate**
   [[📝 Paper](https://arxiv.org/abs/2604.11258)]
 
-- [Foundation] (*arXiv'26_04*) **Mem^2Evolve: Towards Self-Evolving Agents via Co-Evolutionary Capability Expansion and Experience Distillation**
-  [[📝 Paper](https://arxiv.org/abs/2604.10923)] [[💻 Code](https://buaa-irip-llm.github.io/Mem2Evolve)]
+<!--
+  - [Foundation] (*arXiv'26_04*) **Mem^2Evolve: Towards Self-Evolving Agents via Co-Evolutionary Capability Expansion and Experience Distillation**
+    [[📝 Paper](https://arxiv.org/abs/2604.10923)] [[💻 Code](https://buaa-irip-llm.github.io/Mem2Evolve)]
 
+-->
 - [Core] (*arXiv'26_04*) **CAMYLA: Scaling Autonomous Research in Medical Image Segmentation**
   [[📝 Paper](https://arxiv.org/abs/2604.10696)] [[🌐 Project](https://yifangao112.github.io/camyla-page/)]
 
 - [Core] (*arXiv'26_04*) **Constraint-Aware Corrective Memory for Language-Based Drug Discovery Agents (CACM)**
   [[📝 Paper](https://arxiv.org/abs/2604.09308)]
 
-- [Foundation] (*arXiv'26_04*) **SEA-Eval: A Benchmark for Evaluating Self-Evolving Agents Beyond Episodic Assessment**
-  [[📝 Paper](https://arxiv.org/abs/2604.08988)]
+<!--
+  - [Foundation] (*arXiv'26_04*) **SEA-Eval: A Benchmark for Evaluating Self-Evolving Agents Beyond Episodic Assessment**
+    [[📝 Paper](https://arxiv.org/abs/2604.08988)]
 
-- [Foundation] (*arXiv'26_04*) **Multi-Agent Decision-Focused Learning via Value-Aware Sequential Communication (SeqComm-DFL)**
-  [[📝 Paper](https://arxiv.org/abs/2604.08944)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_04*) **Multi-Agent Decision-Focused Learning via Value-Aware Sequential Communication (SeqComm-DFL)**
+    [[📝 Paper](https://arxiv.org/abs/2604.08944)]
 
+-->
 - [Eval] (*arXiv'26_04*) **Grounding Clinical AI Competency in Human Cognition Through the Clinical World Model and Skill-Mix Framework**
   [[📝 Paper](https://arxiv.org/abs/2604.08226)]
 
-- [Foundation] (*arXiv'26_04*) **SEARL: Joint Optimization of Policy and Tool Graph Memory for Self-Evolving Agents**
-  [[📝 Paper](https://arxiv.org/abs/2604.07791)]
+<!--
+  - [Foundation] (*arXiv'26_04*) **SEARL: Joint Optimization of Policy and Tool Graph Memory for Self-Evolving Agents**
+    [[📝 Paper](https://arxiv.org/abs/2604.07791)]
 
+-->
 - [Core] (*arXiv'26_04*) **EMSDialog: Synthetic Multi-person Emergency Medical Service Dialogue Generation from Electronic Patient Care Reports via Multi-LLM Agents**
   [[📝 Paper](https://arxiv.org/abs/2604.07549)]
 
@@ -351,18 +397,24 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Core] (*arXiv'26_04*) **BAAI Cardiac Agent: An intelligent multimodal agent for automated reasoning and diagnosis of cardiovascular diseases from cardiac magnetic resonance imaging**
   [[📝 Paper](https://arxiv.org/abs/2604.04078)] [[💻 Code](https://github.com/plantain-herb/Cardiac-Agent)]
 
-- [Foundation] (*arXiv'26_04*) **SKILLFOUNDRY: Building Self-Evolving Agent Skill Libraries from Heterogeneous Scientific Resources**
-  [[📝 Paper](https://arxiv.org/abs/2604.03964)]
+<!--
+  - [Foundation] (*arXiv'26_04*) **SKILLFOUNDRY: Building Self-Evolving Agent Skill Libraries from Heterogeneous Scientific Resources**
+    [[📝 Paper](https://arxiv.org/abs/2604.03964)]
 
+-->
 - [Core] (*arXiv'26_04*) **XrayClaw: Cooperative-Competitive Multi-Agent Alignment for Trustworthy Chest X-ray Diagnosis**
   [[📝 Paper](https://arxiv.org/pdf/2604.02695)]
 
-- [Foundation] (*arXiv'26_04*) **CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification**
-  [[📝 Paper](https://arxiv.org/abs/2604.01687)]
+<!--
+  - [Foundation] (*arXiv'26_04*) **CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification**
+    [[📝 Paper](https://arxiv.org/abs/2604.01687)]
 
-- [Foundation] (*arXiv'26_04*) **CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery**
-  [[📝 Paper](https://arxiv.org/abs/2604.01658)] [[💻 Code](https://github.com/Human-Agent-Society/CORAL)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_04*) **CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery**
+    [[📝 Paper](https://arxiv.org/abs/2604.01658)] [[💻 Code](https://github.com/Human-Agent-Society/CORAL)]
 
+-->
 - [Core] (*arXiv'26_04*) **CARE: Privacy-Compliant Agentic Reasoning with Evidence Discordance**
   [[📝 Paper](https://arxiv.org/abs/2604.01113)]
 
@@ -393,18 +445,22 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Core] (*arXiv'26_04*) **One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction (CAMP)**
   [[📝 Paper](https://arxiv.org/abs/2604.00085)]
 
-- [Foundation] (*arXiv'26_03*) **Cognitive Friction: A Decision-Theoretic Framework for Bounded Deliberation in Tool-Using Agents**
-  [[📝 Paper](https://arxiv.org/abs/2603.30031)]
+<!--
+  - [Foundation] (*arXiv'26_03*) **Cognitive Friction: A Decision-Theoretic Framework for Bounded Deliberation in Tool-Using Agents**
+    [[📝 Paper](https://arxiv.org/abs/2603.30031)]
 
+-->
 - [Core] (*arXiv'26_03*) **Perfecting Human–AI Interaction at Clinical Scale: Turning Production Signals into Safer, More Human Conversations**
   [[📝 Paper](https://arxiv.org/abs/2603.29893)]
 
 - [Core] (*arXiv'26_03*) **Symphony for Medical Coding: A Next-Generation Agentic System for Scalable and Explainable Medical Coding**
   [[📝 Paper](https://arxiv.org/abs/2603.29709)]
 
-- [Foundation] (*arXiv'26_03*) **Meta-Harness: End-to-End Optimization of Model Harnesses**
-  [[📝 Paper](https://arxiv.org/pdf/2603.28052)]
+<!--
+  - [Foundation] (*arXiv'26_03*) **Meta-Harness: End-to-End Optimization of Model Harnesses**
+    [[📝 Paper](https://arxiv.org/pdf/2603.28052)]
 
+-->
 - [Core] (*arXiv'26_03*) **Improving Clinical Diagnosis with Counterfactual Multi-Agent Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2603.27820)]
 
@@ -414,39 +470,53 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Core] (*arXiv'26_03*) **MediHive: A Decentralized Agent Collective for Medical Question Answering**
   [[📝 Paper](https://arxiv.org/abs/2603.27150)]
 
-- [Foundation] (*arXiv'26_03*) **AIRA_2: Overcoming Bottlenecks in AI Research Agents**
-  [[📝 Paper](https://arxiv.org/pdf/2603.26499)]
+<!--
+  - [Foundation] (*arXiv'26_03*) **AIRA_2: Overcoming Bottlenecks in AI Research Agents**
+    [[📝 Paper](https://arxiv.org/pdf/2603.26499)]
 
-- [Foundation] (*arXiv'26_03*) **Reflect to Inform: Boosting Multimodal Reasoning via Information-Gain-Driven Verification**
-  [[📝 Paper](https://arxiv.org/pdf/2603.26348v1)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_03*) **Reflect to Inform: Boosting Multimodal Reasoning via Information-Gain-Driven Verification**
+    [[📝 Paper](https://arxiv.org/pdf/2603.26348v1)]
 
+-->
 - [Core] (*arXiv'26_03*) **SkinGPT-X: A Self-Evolving Collaborative Multi-Agent System for Transparent and Trustworthy Dermatological Diagnosis**
   [[📝 Paper](https://arxiv.org/abs/2603.26122)]
 
 - [Core] (*arXiv'26_03*) **Doctorina MedBench: End-to-End Evaluation of Agent-Based Medical AI**
   [[📝 Paper](https://arxiv.org/pdf/2603.25821)]
 
-- [Foundation] (*arXiv'26_03*) **UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience**
-  [[📝 Paper](https://arxiv.org/pdf/2603.24533v1)]
+<!--
+  - [Foundation] (*arXiv'26_03*) **UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience**
+    [[📝 Paper](https://arxiv.org/pdf/2603.24533v1)]
 
+-->
 - [Core] (*arXiv'26_03*) **CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare**
   [[📝 Paper](https://arxiv.org/abs/2603.24157)] [[🌐 Project](https://akashghosh.github.io/Care-Pilot/)] [[💻 Code](https://github.com/AkashGhosh/CarePilot)]
 
 - [Core] (*arXiv'26_03*) **GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2603.22096)]
 
-- [Foundation] (*arXiv'26_03*) **When Models Judge Themselves: Unsupervised Self-Evolution for Multimodal Reasoning**
-  [[📝 Paper](https://arxiv.org/pdf/2603.21289v1)]
+<!--
+  - [Foundation] (*arXiv'26_03*) **When Models Judge Themselves: Unsupervised Self-Evolution for Multimodal Reasoning**
+    [[📝 Paper](https://arxiv.org/pdf/2603.21289v1)]
 
-- [Foundation] (*arXiv'26_03*) **MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution**
-  [[📝 Paper](https://arxiv.org/abs/2603.18718)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_03*) **MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution**
+    [[📝 Paper](https://arxiv.org/abs/2603.18718)]
 
-- [Foundation] (*arXiv'26_03*) **AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse**
-  [[📝 Paper](https://arxiv.org/abs/2603.18000)] [[💻 Code](https://github.com/zzatpku/AgentFactory)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_03*) **AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse**
+    [[📝 Paper](https://arxiv.org/abs/2603.18000)] [[💻 Code](https://github.com/zzatpku/AgentFactory)]
 
-- [Foundation] (*arXiv'26_03*) **SkillEvolver: Dynamic Skill Lifecycle Management for Agentic RL**
-  [[📝 Paper](https://arxiv.org/abs/2603.17187)] [[💻 Code](https://github.com/aiming-lab/MetaClaw)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_03*) **SkillEvolver: Dynamic Skill Lifecycle Management for Agentic RL**
+    [[📝 Paper](https://arxiv.org/abs/2603.17187)] [[💻 Code](https://github.com/aiming-lab/MetaClaw)]
 
+-->
 - [Core] (*arXiv'26_03*) **OpenHospital: A Thing-in-itself Arena for Evolving and Benchmarking LLM-based Collective Intelligence**
   [[📝 Paper](https://arxiv.org/abs/2603.14771)] [[💻 Code](https://github.com/ZJU-LLMs/Agent-Kernel/tree/main/demo/OpenHospital)]
 
@@ -456,33 +526,43 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Core] (*arXiv'26_03*) **TheraAgent: Multi-Agent Framework with Self-Evolving Memory and Evidence-Calibrated Reasoning for PET Theranostics**
   [[📝 Paper](https://arxiv.org/abs/2603.13676)]
 
-- [Foundation] (*arXiv'26_03*) **CreativeBench: Benchmarking and Enhancing Machine Creativity via Self-Evolving Challenges**
-  [[📝 Paper](https://arxiv.org/pdf/2603.11863)]
+<!--
+  - [Foundation] (*arXiv'26_03*) **CreativeBench: Benchmarking and Enhancing Machine Creativity via Self-Evolving Challenges**
+    [[📝 Paper](https://arxiv.org/pdf/2603.11863)]
 
+-->
 - [Core] (*arXiv'26_03*) **Emulating Clinician Cognition via Self-Evolving Deep Clinical Research**
   [[📝 Paper](https://arxiv.org/abs/2603.10677)]
 
 - [Core] (*arXiv'26_03*) **Skill-Evolving Grounded Reasoning for Free-Text Promptable 3D Medical Image Segmentation**
   [[📝 Paper](https://arxiv.org/abs/2603.08215)]
 
-- [Foundation] (*arXiv'26_03*) **EvoScientist: Towards Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery**
-  [[📝 Paper](https://arxiv.org/pdf/2603.08127)]
+<!--
+  - [Foundation] (*arXiv'26_03*) **EvoScientist: Towards Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery**
+    [[📝 Paper](https://arxiv.org/pdf/2603.08127)]
 
+-->
 - [Core] (*arXiv'26_03*) **Med-Evo: Test-time Self-evolution for Medical Multimodal Large Language Models**
   [[📝 Paper](https://arxiv.org/abs/2603.07443)]
 
 - [Core] (*arXiv'26_03*) **Evolving Medical Imaging Agents via Experience-driven Self-skill Discovery (MACRO)**
   [[📝 Paper](https://arxiv.org/abs/2603.05860)]
 
-- [Foundation] (*arXiv'26_03*) **Tool-Genesis: A Task-Driven Tool Creation Benchmark for Self-Evolving Language Agent**
-  [[📝 Paper](https://arxiv.org/pdf/2603.05578)]
+<!--
+  - [Foundation] (*arXiv'26_03*) **Tool-Genesis: A Task-Driven Tool Creation Benchmark for Self-Evolving Language Agent**
+    [[📝 Paper](https://arxiv.org/pdf/2603.05578)]
 
-- [Foundation] (*arXiv'26_03*) **AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution**
-  [[📝 Paper](https://arxiv.org/abs/2603.01145)] [[💻 Code](https://github.com/ECNU-ICALK/AutoSkill)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_03*) **AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution**
+    [[📝 Paper](https://arxiv.org/abs/2603.01145)] [[💻 Code](https://github.com/ECNU-ICALK/AutoSkill)]
 
-- [Background] (*arXiv'26_03*) **How Well Do Multimodal Models Reason on ECG Signals?**
-  [[📝 Paper](https://arxiv.org/abs/2603.00312)]
+-->
+<!--
+  - [Background] (*arXiv'26_03*) **How Well Do Multimodal Models Reason on ECG Signals?**
+    [[📝 Paper](https://arxiv.org/abs/2603.00312)]
 
+-->
 - [Eval] (*arXiv'26_02*) **The Doctor Will (Still) See You Now: On the Structural Limits of Agentic AI in Healthcare**
   [[📝 Paper](https://arxiv.org/abs/2602.18460)]
 
@@ -492,12 +572,16 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Core] (*arXiv'26_02*) **Closing Reasoning Gaps in Clinical Agents with Differential Reasoning Learning**
   [[📝 Paper](https://arxiv.org/abs/2602.09945)]
 
-- [Foundation] (*arXiv'26_02*) **S1-NexusAgent: a Self-Evolving Agent Framework for Multidisciplinary Scientific Research**
-  [[📝 Paper](https://arxiv.org/abs/2602.01550)]
+<!--
+  - [Foundation] (*arXiv'26_02*) **S1-NexusAgent: a Self-Evolving Agent Framework for Multidisciplinary Scientific Research**
+    [[📝 Paper](https://arxiv.org/abs/2602.01550)]
 
-- [Foundation] (*arXiv'26_02*) **Position: Agentic Evolution is the Path to Evolving LLMs**
-  [[📝 Paper](https://arxiv.org/pdf/2602.00359v2)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_02*) **Position: Agentic Evolution is the Path to Evolving LLMs**
+    [[📝 Paper](https://arxiv.org/pdf/2602.00359v2)]
 
+-->
 - [Core] (*bioRxiv'26_02*) **PantheonOS: An Evolvable Multi-Agent Framework for Automatic Genomics Discovery**
   [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.02.26.707870v1)] [[🌐 Project](https://pantheonos.stanford.edu)] [[💻 Code](https://github.com/aristoteleo)]
 
@@ -528,18 +612,24 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Core] (*Expert Syst. Appl.'26*) **CARE: A clinical agentic reasoning engine to enhance real-World diagnostic accuracy via structured medical reasoning**
   [[📝 Paper](https://doi.org/10.1016/j.eswa.2026.131476)]
 
-- [Foundation] (*GitHub'26*) **EverOS: Build, evaluate, and integrate long-term memory for self-evolving agents**
-  [[💻 Code](https://github.com/EverMind-AI/EverOS)]
+<!--
+  - [Foundation] (*GitHub'26*) **EverOS: Build, evaluate, and integrate long-term memory for self-evolving agents**
+    [[💻 Code](https://github.com/EverMind-AI/EverOS)]
 
-- [Foundation] (*GitHub'26*) **NanoResearch: Co-Evolving Skills, Memory, and Policy for Personalized Research Automation**
-  [[💻 Code](https://github.com/OpenRaiser/NanoResearch)]
+-->
+<!--
+  - [Foundation] (*GitHub'26*) **NanoResearch: Co-Evolving Skills, Memory, and Policy for Personalized Research Automation**
+    [[💻 Code](https://github.com/OpenRaiser/NanoResearch)]
 
+-->
 - [Eval] (*Health Inf Sci Syst'26*) **Enhancing LLM-based medical decision-making by test-time knowledge acquisition**
   [[📝 Paper](https://doi.org/10.1007/s13755-026-00449-8)]
 
-- [Foundation] (*ICLR'26 Rejected*) **SkillEvo: An Experience Learning Framework with Reinforcement Learning for Skill Evolution**
-  [[📝 Paper](https://openreview.net/forum?id=S1cIE9pe3k)]
+<!--
+  - [Foundation] (*ICLR'26 Rejected*) **SkillEvo: An Experience Learning Framework with Reinforcement Learning for Skill Evolution**
+    [[📝 Paper](https://openreview.net/forum?id=S1cIE9pe3k)]
 
+-->
 - [Core] (*Nat. Health'26*) **A multi-agent framework combining large language models with medical flowcharts for self-triage**
   [[📝 Paper](https://www.nature.com/articles/s44360-026-00112-2)] [[💻 Code](https://github.com/digihealthucsd/Multi-agent-self-triage-system)]
 
@@ -549,9 +639,11 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Core] (*Nature Biomedical Engineering'26*) **BioMedAgent: A Self-Evolving LLM Multi-Agent Framework for Autonomous, Tool-Aware Biomedical Data Analyses**
   [[📝 Paper](https://www.nature.com/articles/s41551-026-01634-6)] [[🌐 Project](http://biomed.drai.cn)] [[💻 Code](https://github.com/BOBQWERA/BioMedAgent)]
 
-- [Foundation] (*arXiv'26*) **MAGE: Multi-Agent Self-Evolution with Co-Evolutionary Knowledge Graphs**
-  [[🌐 arXiv](https://arxiv.org/search/?searchtype=all&query=MAGE%3A%20Multi-Agent%20Self-Evolution%20with%20Co-Evolutionary%20Knowledge%20Graphs&abstracts=show&order=-announced_date_first&size=25)]
+<!--
+  - [Foundation] (*arXiv'26*) **MAGE: Multi-Agent Self-Evolution with Co-Evolutionary Knowledge Graphs**
+    [[🌐 arXiv](https://arxiv.org/search/?searchtype=all&query=MAGE%3A%20Multi-Agent%20Self-Evolution%20with%20Co-Evolutionary%20Knowledge%20Graphs&abstracts=show&order=-announced_date_first&size=25)]
 
+-->
 - [Core] (*npj Digital Medicine'26*) **EvoMDT: A Self-Evolving Multi-Agent System for Structured Clinical Decision-Making in Multi-Cancer**
   [[📝 Paper](https://www.nature.com/articles/s41746-025-02304-8)] [[💻 Code](https://github.com/KesselZ/EvoMDT)]
 
@@ -572,9 +664,11 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Foundation] (*ICLR'26_10*) **EvoTest: Evolutionary Test-Time Learning for Self-Improving Agentic Systems**
   [[📝 Paper](https://arxiv.org/abs/2510.13220)] [[💻 Code](https://github.com/yf-he/EvoTest)]
 
-- [Foundation] (*ICLR'26_10*) **CoT-Evo: Evolutionary Distillation of CoT for Scientific Reasoning**
-  [[📝 Paper](https://arxiv.org/abs/2510.13166)] [[💻 Code](https://github.com/Irving-Feng/CoT-Evo)]
+<!--
+  - [Foundation] (*ICLR'26_10*) **CoT-Evo: Evolutionary Distillation of CoT for Scientific Reasoning**
+    [[📝 Paper](https://arxiv.org/abs/2510.13166)] [[💻 Code](https://github.com/Irving-Feng/CoT-Evo)]
 
+-->
 - [Core] (*arXiv'25_10*) **RareAgent: Self-Evolving Reasoning for Drug Repurposing in Rare Diseases**
   [[📝 Paper](https://arxiv.org/abs/2510.05764)]
 
@@ -596,9 +690,11 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Core] (*arXiv'25_09*) **Evaluation of Causal Reasoning for Large Language Models in Contextualized Clinical Scenarios of Laboratory Test Interpretation**
   [[📝 Paper](https://arxiv.org/abs/2509.16372)]
 
-- [Foundation] (*arXiv'25_09*) **Evolving-RL: End-to-End Optimization of Experience-Driven Self-Evolving Capability**
-  [[📝 Paper](https://arxiv.org/abs/2509.15194)] [[💻 Code](https://github.com/YujunZhou/EVOL-RL)]
+<!--
+  - [Foundation] (*arXiv'25_09*) **Evolving-RL: End-to-End Optimization of Experience-Driven Self-Evolving Capability**
+    [[📝 Paper](https://arxiv.org/abs/2509.15194)] [[💻 Code](https://github.com/YujunZhou/EVOL-RL)]
 
+-->
 - [Eval] (*medRxiv'25_08*) **Automation Bias in Large Language Model Assisted Diagnostic Reasoning Among AI-Trained Physicians**
   [[📝 Paper](https://www.medrxiv.org/content/10.1101/2025.08.23.25334280v2)]
 
@@ -632,9 +728,11 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Core] (*arXiv'25_05*) **DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue**
   [[📝 Paper](https://arxiv.org/abs/2505.19630)]
 
-- [Foundation] (*arXiv'25_05*) **Nature's Insight: A Novel Framework and Comprehensive Analysis of Agentic Reasoning Through the Lens of Neuroscience**
-  [[📝 Paper](https://arxiv.org/abs/2505.05515)] [[💻 Code](https://github.com/BioRAILab/Awesome-Neuroscience-Agent-Reasoning)]
+<!--
+  - [Foundation] (*arXiv'25_05*) **Nature's Insight: A Novel Framework and Comprehensive Analysis of Agentic Reasoning Through the Lens of Neuroscience**
+    [[📝 Paper](https://arxiv.org/abs/2505.05515)] [[💻 Code](https://github.com/BioRAILab/Awesome-Neuroscience-Agent-Reasoning)]
 
+-->
 - [Core] (*MICCAI'25_03*) **MedAgentSim: Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions**
   [[📝 Paper](https://arxiv.org/pdf/2503.22678)] [[💻 Code](https://github.com/MAXNORM8650/MedAgentSim)]
 
@@ -650,15 +748,19 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Core] (*arXiv'25_02*) **PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology**
   [[📝 Paper](https://arxiv.org/pdf/2502.08916)]
 
-- [Foundation] (*arXiv'25_02*) **EvoAgent: Self-evolving Agent with Continual World Model for Long-Horizon Tasks**
-  [[📝 Paper](https://arxiv.org/abs/2502.05907)] [[💻 Code](https://github.com/siyuyuan/evoagent)]
+<!--
+  - [Foundation] (*arXiv'25_02*) **EvoAgent: Self-evolving Agent with Continual World Model for Long-Horizon Tasks**
+    [[📝 Paper](https://arxiv.org/abs/2502.05907)] [[💻 Code](https://github.com/siyuyuan/evoagent)]
 
+-->
 - [Core] (*Advanced Science'25*) **Autonomous Self-Evolving Research on Biomedical Data: The DREAM Paradigm**
   [[📝 Paper](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202417066)]
 
-- [Foundation] (*EMNLP'25 Demo*) **EvoAgentX: An Automated Framework for Evolving Agentic Workflows**
-  [[📝 Paper](https://aclanthology.org/2025.emnlp-demos.47/)] [[💻 Code](https://github.com/EvoAgentX/EvoAgentX)]
+<!--
+  - [Foundation] (*EMNLP'25 Demo*) **EvoAgentX: An Automated Framework for Evolving Agentic Workflows**
+    [[📝 Paper](https://aclanthology.org/2025.emnlp-demos.47/)] [[💻 Code](https://github.com/EvoAgentX/EvoAgentX)]
 
+-->
 - [Core] (*IEEE ICASSP'25*) **SeM-Agents: A Self-Evolving Framework for Multi-Agent Medical Consultation Based on Large Language Models**
   [[📝 Paper](https://ieeexplore.ieee.org/abstract/document/10889517)]
 
@@ -693,15 +795,19 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 
 ### 2023
 
-- [Foundation] (*arXiv'23_12*) **ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**
-  [[📝 Paper](https://arxiv.org/abs/2312.10003)]
+<!--
+  - [Foundation] (*arXiv'23_12*) **ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**
+    [[📝 Paper](https://arxiv.org/abs/2312.10003)]
 
-- [Foundation] (*arXiv'23_06*) **SELFEVOLVE: A Code Evolution Framework via Large Language Models**
-  [[📝 Paper](https://arxiv.org/abs/2306.02907)]
+-->
+<!--
+  - [Foundation] (*arXiv'23_06*) **SELFEVOLVE: A Code Evolution Framework via Large Language Models**
+    [[📝 Paper](https://arxiv.org/abs/2306.02907)]
 
----
+  ---
 
 
+-->
 ## 📚 Survey Papers
 
 > Survey and perspective papers use `[Eval]` when they focus on evaluation, governance, safety, or clinical deployment.
@@ -730,12 +836,16 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Eval] (*arXiv'25_08*) **A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems**
   [[📝 Paper](https://arxiv.org/abs/2508.07407)] [[💻 Code](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents)]
 
-- [Eval] (*arXiv'25_07*) **A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence**
-  [[📝 Paper](https://arxiv.org/abs/2507.21046)]
+<!--
+  - [Eval] (*arXiv'25_07*) **A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence**
+    [[📝 Paper](https://arxiv.org/abs/2507.21046)]
 
-- [Eval] (*arXiv'25_05*) **Nature's Insight: A Novel Framework and Comprehensive Analysis of Agentic Reasoning Through the Lens of Neuroscience**
-  [[📝 Paper](https://arxiv.org/abs/2505.05515)] [[💻 Code](https://github.com/BioRAILab/Awesome-Neuroscience-Agent-Reasoning)]
+-->
+<!--
+  - [Eval] (*arXiv'25_05*) **Nature's Insight: A Novel Framework and Comprehensive Analysis of Agentic Reasoning Through the Lens of Neuroscience**
+    [[📝 Paper](https://arxiv.org/abs/2505.05515)] [[💻 Code](https://github.com/BioRAILab/Awesome-Neuroscience-Agent-Reasoning)]
 
+-->
 - [Eval] (*Comput Methods Programs Biomed'23*) **A Survey on Agents Applications in Healthcare: Opportunities, Challenges and Trends**
   [[📝 Paper](https://www.sciencedirect.com/science/article/pii/S0169260723001906)]
 
@@ -1162,9 +1272,11 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Core] (*arXiv'26_03*) **Doctorina MedBench: End-to-End Evaluation of Agent-Based Medical AI**
   [[📝 Paper](https://arxiv.org/pdf/2603.25821)]
 
-- [Foundation] (*arXiv'26_04*) **SEA-Eval: A Benchmark for Evaluating Self-Evolving Agents Beyond Episodic Assessment**
-  [[📝 Paper](https://arxiv.org/abs/2604.08988)]
+<!--
+  - [Foundation] (*arXiv'26_04*) **SEA-Eval: A Benchmark for Evaluating Self-Evolving Agents Beyond Episodic Assessment**
+    [[📝 Paper](https://arxiv.org/abs/2604.08988)]
 
+-->
 - [Core] (*arXiv'26_04*) **QuarkMedSearch: A Long-Horizon Deep Search Agent for Exploring Medical Intelligence**
   [[📝 Paper](https://arxiv.org/pdf/2604.12867)]
 
@@ -1233,9 +1345,11 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Background] (*arXiv'26_04*) **MedSynapse-V: Bridging Visual Perception and Clinical Intuition via Latent Memory Evolution**
   [[📝 Paper](https://arxiv.org/abs/2604.26283)]
 
-- [Background] (*arXiv'26_03*) **How Well Do Multimodal Models Reason on ECG Signals?**
-  [[📝 Paper](https://arxiv.org/abs/2603.00312)]
+<!--
+  - [Background] (*arXiv'26_03*) **How Well Do Multimodal Models Reason on ECG Signals?**
+    [[📝 Paper](https://arxiv.org/abs/2603.00312)]
 
+-->
 - [Core] (*arXiv'26_04*) **BAAI Cardiac Agent: An intelligent multimodal agent for automated reasoning and diagnosis of cardiovascular diseases from cardiac magnetic resonance imaging**
   [[📝 Paper](https://arxiv.org/abs/2604.04078)] [[💻 Code](https://github.com/plantain-herb/Cardiac-Agent)]
 
@@ -1248,9 +1362,11 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Core] (*arXiv'26_04*) **RadAgent: A Tool-Using AI Agent for Stepwise Interpretation of Chest Computed Tomography**
   [[📝 Paper](https://arxiv.org/abs/2604.15231)] [[🌐 Project](https://rad-agent.github.io/)]
 
-- [Background] (*arXiv'26_04*) **Seeing Through Experts' Eyes: A Foundational Vision Language Model Trained on Radiologists' Gaze and Reasoning**
-  [[📝 Paper](https://arxiv.org/abs/2604.14316)]
+<!--
+  - [Background] (*arXiv'26_04*) **Seeing Through Experts' Eyes: A Foundational Vision Language Model Trained on Radiologists' Gaze and Reasoning**
+    [[📝 Paper](https://arxiv.org/abs/2604.14316)]
 
+-->
 - [Background] (*arXiv'26_04*) **Enhancing Reinforcement Learning for Radiology Report Generation with Evidence-aware Rewards and Self-correcting Preference Learning**
   [[📝 Paper](https://arxiv.org/abs/2604.13598)]
 
@@ -1348,9 +1464,11 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Core] (*arXiv'26_04*) **MAT-Cell: A Multi-Agent Tree-Structured Reasoning Framework for Batch-Level Single-Cell Annotation**
   [[📝 Paper](https://arxiv.org/abs/2604.06269)] [[💻 Code](https://github.com/jiangliu91/MAT-Cell-A-Multi-Agent-Tree-Structured-Reasoning-Framework-for-Batch-Level-Single-Cell-Annotation)]
 
-- [Foundation] (*arXiv'26_04*) **MDAgent: A Multi-Agent Framework for End-to-End Molecular Dynamics Research**
-  [[📝 Paper](https://arxiv.org/abs/2604.18622)]
+<!--
+  - [Foundation] (*arXiv'26_04*) **MDAgent: A Multi-Agent Framework for End-to-End Molecular Dynamics Research**
+    [[📝 Paper](https://arxiv.org/abs/2604.18622)]
 
+-->
 - [Core] (*arXiv'26_04*) **AblateCell: A Reproduce-then-Ablate Agent for Virtual Cell Repositories**
   [[📝 Paper](https://arxiv.org/abs/2604.19606)]
 
@@ -1416,9 +1534,11 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Foundation] (*arXiv'26_05*) **TheraAgent: Self-Improving Therapeutic Agent for Precise and Comprehensive Treatment Planning**
   [[📝 Paper](https://arxiv.org/abs/2605.05963)]
 
-- [Foundation] (*arXiv'26_04*) **Multi-Agent Decision-Focused Learning via Value-Aware Sequential Communication (SeqComm-DFL)**
-  [[📝 Paper](https://arxiv.org/abs/2604.08944)]
+<!--
+  - [Foundation] (*arXiv'26_04*) **Multi-Agent Decision-Focused Learning via Value-Aware Sequential Communication (SeqComm-DFL)**
+    [[📝 Paper](https://arxiv.org/abs/2604.08944)]
 
+-->
 - [Core] (*arXiv'25_06*) **Integrating Dynamical Systems Learning with Foundational Models: A Meta-Evolutionary AI Framework for Clinical Trials**
   [[📝 Paper](https://arxiv.org/abs/2506.14782)]
 
@@ -1494,72 +1614,110 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 
 ### General Self-Evolving Frameworks and Methods
 
-- [Foundation] (*arXiv'26_03*) **Meta-Harness: End-to-End Optimization of Model Harnesses**
-  [[📝 Paper](https://arxiv.org/pdf/2603.28052)]
+<!--
+  - [Foundation] (*arXiv'26_03*) **Meta-Harness: End-to-End Optimization of Model Harnesses**
+    [[📝 Paper](https://arxiv.org/pdf/2603.28052)]
 
-- [Foundation] (*arXiv'26_05*) **ARA: Agentic Reproducibility Assessment for Scalable Support of Scientific Peer-Review**
-  [[📝 Paper](https://arxiv.org/abs/2605.02651)] [[💻 Code](https://github.com/AndresLaverdeMarin/agentic_reproducibility_assessment)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_05*) **ARA: Agentic Reproducibility Assessment for Scalable Support of Scientific Peer-Review**
+    [[📝 Paper](https://arxiv.org/abs/2605.02651)] [[💻 Code](https://github.com/AndresLaverdeMarin/agentic_reproducibility_assessment)]
 
-- [Foundation] (*arXiv'26_05*) **MemTier: Tiered Memory Architecture and Retrieval Bottleneck Analysis for Long-Running Autonomous AI Agents**
-  [[📝 Paper](https://arxiv.org/abs/2605.03675)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_05*) **MemTier: Tiered Memory Architecture and Retrieval Bottleneck Analysis for Long-Running Autonomous AI Agents**
+    [[📝 Paper](https://arxiv.org/abs/2605.03675)]
 
-- [Foundation] (*arXiv'26_05*) **SkillOS: Learning Skill Curation for Self-Evolving Agents**
-  [[📝 Paper](https://arxiv.org/abs/2605.06614)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_05*) **SkillOS: Learning Skill Curation for Self-Evolving Agents**
+    [[📝 Paper](https://arxiv.org/abs/2605.06614)]
 
-- [Foundation] (*arXiv'25_05*) **Nature's Insight: A Novel Framework and Comprehensive Analysis of Agentic Reasoning Through the Lens of Neuroscience**
-  [[📝 Paper](https://arxiv.org/abs/2505.05515)] [[💻 Code](https://github.com/BioRAILab/Awesome-Neuroscience-Agent-Reasoning)]
+-->
+<!--
+  - [Foundation] (*arXiv'25_05*) **Nature's Insight: A Novel Framework and Comprehensive Analysis of Agentic Reasoning Through the Lens of Neuroscience**
+    [[📝 Paper](https://arxiv.org/abs/2505.05515)] [[💻 Code](https://github.com/BioRAILab/Awesome-Neuroscience-Agent-Reasoning)]
 
-- [Foundation] (*arXiv'26_04*) **Autogenesis: A Self-Evolving Agent Protocol**
-  [[📝 Paper](https://arxiv.org/abs/2604.15034)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_04*) **Autogenesis: A Self-Evolving Agent Protocol**
+    [[📝 Paper](https://arxiv.org/abs/2604.15034)]
 
-- [Foundation] (*arXiv'26_04*) **A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression**
-  [[📝 Paper](https://arxiv.org/abs/2604.19572)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_04*) **A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression**
+    [[📝 Paper](https://arxiv.org/abs/2604.19572)]
 
-- [Foundation] (*ACL'26_04*) **From Experience to Skill: Multi-Agent Generative Engine Optimization via Reusable Strategy Learning**
-  [[📝 Paper](https://arxiv.org/abs/2604.19516)] [[💻 Code](https://github.com/Wu-beining/MAGEO)]
+-->
+<!--
+  - [Foundation] (*ACL'26_04*) **From Experience to Skill: Multi-Agent Generative Engine Optimization via Reusable Strategy Learning**
+    [[📝 Paper](https://arxiv.org/abs/2604.19516)] [[💻 Code](https://github.com/Wu-beining/MAGEO)]
 
-- [Foundation] (*arXiv'26_04*) **Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks**
-  [[📝 Paper](https://arxiv.org/abs/2604.20987)] [[🌐 Project](https://wuxiyang1996.github.io/COSPLAY_page/)] [[💻 Code](https://github.com/wuxiyang1996/cos-play)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_04*) **Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks**
+    [[📝 Paper](https://arxiv.org/abs/2604.20987)] [[🌐 Project](https://wuxiyang1996.github.io/COSPLAY_page/)] [[💻 Code](https://github.com/wuxiyang1996/cos-play)]
 
-- [Foundation] (*arXiv'26_04*) **AEL: Agent Evolving Learning for Open-Ended Environments**
-  [[📝 Paper](https://arxiv.org/abs/2604.21725)] [[💻 Code](https://github.com/WujiangXu/AEL)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_04*) **AEL: Agent Evolving Learning for Open-Ended Environments**
+    [[📝 Paper](https://arxiv.org/abs/2604.21725)] [[💻 Code](https://github.com/WujiangXu/AEL)]
 
-- [Foundation] (*arXiv'26_04*) **GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization**
-  [[📝 Paper](https://arxiv.org/abs/2604.17091)] [[💻 Code](https://github.com/lsdefine/GenericAgent)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_04*) **GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization**
+    [[📝 Paper](https://arxiv.org/abs/2604.17091)] [[💻 Code](https://github.com/lsdefine/GenericAgent)]
 
-- [Foundation] (*arXiv'26*) **MAGE: Multi-Agent Self-Evolution with Co-Evolutionary Knowledge Graphs**
-  [[🌐 arXiv](https://arxiv.org/search/?searchtype=all&query=MAGE%3A%20Multi-Agent%20Self-Evolution%20with%20Co-Evolutionary%20Knowledge%20Graphs&abstracts=show&order=-announced_date_first&size=25)]
+-->
+<!--
+  - [Foundation] (*arXiv'26*) **MAGE: Multi-Agent Self-Evolution with Co-Evolutionary Knowledge Graphs**
+    [[🌐 arXiv](https://arxiv.org/search/?searchtype=all&query=MAGE%3A%20Multi-Agent%20Self-Evolution%20with%20Co-Evolutionary%20Knowledge%20Graphs&abstracts=show&order=-announced_date_first&size=25)]
 
-- [Foundation] (*arXiv'25_09*) **Evolving-RL: End-to-End Optimization of Experience-Driven Self-Evolving Capability**
-  [[📝 Paper](https://arxiv.org/abs/2509.15194)] [[💻 Code](https://github.com/YujunZhou/EVOL-RL)]
+-->
+<!--
+  - [Foundation] (*arXiv'25_09*) **Evolving-RL: End-to-End Optimization of Experience-Driven Self-Evolving Capability**
+    [[📝 Paper](https://arxiv.org/abs/2509.15194)] [[💻 Code](https://github.com/YujunZhou/EVOL-RL)]
 
-- [Foundation] (*GitHub'26*) **NanoResearch: Co-Evolving Skills, Memory, and Policy for Personalized Research Automation**
-  [[💻 Code](https://github.com/OpenRaiser/NanoResearch)]
+-->
+<!--
+  - [Foundation] (*GitHub'26*) **NanoResearch: Co-Evolving Skills, Memory, and Policy for Personalized Research Automation**
+    [[💻 Code](https://github.com/OpenRaiser/NanoResearch)]
 
-- [Foundation] (*arXiv'26_03*) **SkillEvolver: Dynamic Skill Lifecycle Management for Agentic RL**
-  [[📝 Paper](https://arxiv.org/abs/2603.17187)] [[💻 Code](https://github.com/aiming-lab/MetaClaw)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_03*) **SkillEvolver: Dynamic Skill Lifecycle Management for Agentic RL**
+    [[📝 Paper](https://arxiv.org/abs/2603.17187)] [[💻 Code](https://github.com/aiming-lab/MetaClaw)]
 
-- [Foundation] (*arXiv'26_03*) **AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse**
-  [[📝 Paper](https://arxiv.org/abs/2603.18000)] [[💻 Code](https://github.com/zzatpku/AgentFactory)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_03*) **AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse**
+    [[📝 Paper](https://arxiv.org/abs/2603.18000)] [[💻 Code](https://github.com/zzatpku/AgentFactory)]
 
-- [Foundation] (*arXiv'26_02*) **S1-NexusAgent: a Self-Evolving Agent Framework for Multidisciplinary Scientific Research**
-  [[📝 Paper](https://arxiv.org/abs/2602.01550)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_02*) **S1-NexusAgent: a Self-Evolving Agent Framework for Multidisciplinary Scientific Research**
+    [[📝 Paper](https://arxiv.org/abs/2602.01550)]
 
+-->
 - [Core] (*arXiv'26_03*) **OpenHospital: A Thing-in-itself Arena for Evolving and Benchmarking LLM-based Collective Intelligence**
   [[📝 Paper](https://arxiv.org/abs/2603.14771)] [[💻 Code](https://github.com/ZJU-LLMs/Agent-Kernel/tree/main/demo/OpenHospital)]
 
-- [Foundation] (*arXiv'26_04*) **Mem^2Evolve: Towards Self-Evolving Agents via Co-Evolutionary Capability Expansion and Experience Distillation**
-  [[📝 Paper](https://arxiv.org/abs/2604.10923)] [[💻 Code](https://buaa-irip-llm.github.io/Mem2Evolve)]
+<!--
+  - [Foundation] (*arXiv'26_04*) **Mem^2Evolve: Towards Self-Evolving Agents via Co-Evolutionary Capability Expansion and Experience Distillation**
+    [[📝 Paper](https://arxiv.org/abs/2604.10923)] [[💻 Code](https://buaa-irip-llm.github.io/Mem2Evolve)]
 
+-->
 - [Core] (*arXiv'24_05*) **Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents**
   [[📝 Paper](https://arxiv.org/abs/2405.02957)]
 
 - [Core] (*arXiv'24_05*) **AgentClinic: A Multimodal Agent Benchmark to Evaluate AI in Simulated Clinical Environments**
   [[📝 Paper](https://arxiv.org/abs/2405.07960)] [[🌐 Project](https://agentclinic.github.io)] [[💻 Code](https://github.com/samuelschmidgall/agentclinic)]
 
-- [Foundation] (*arXiv'26_04*) **SEA-Eval: A Benchmark for Evaluating Self-Evolving Agents Beyond Episodic Assessment**
-  [[📝 Paper](https://arxiv.org/abs/2604.08988)]
+<!--
+  - [Foundation] (*arXiv'26_04*) **SEA-Eval: A Benchmark for Evaluating Self-Evolving Agents Beyond Episodic Assessment**
+    [[📝 Paper](https://arxiv.org/abs/2604.08988)]
 
+-->
 - [Core] (*bioRxiv'26_02*) **PantheonOS: An Evolvable Multi-Agent Framework for Automatic Genomics Discovery**
   [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.02.26.707870v1)] [[🌐 Project](https://pantheonos.stanford.edu)] [[💻 Code](https://github.com/aristoteleo)]
 
@@ -1569,39 +1727,61 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Core] (*arXiv'26_03*) **GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2603.22096)]
 
-- [Foundation] (*GitHub'26*) **EverOS: Build, evaluate, and integrate long-term memory for self-evolving agents**
-  [[💻 Code](https://github.com/EverMind-AI/EverOS)]
+<!--
+  - [Foundation] (*GitHub'26*) **EverOS: Build, evaluate, and integrate long-term memory for self-evolving agents**
+    [[💻 Code](https://github.com/EverMind-AI/EverOS)]
 
-- [Foundation] (*arXiv'26_03*) **MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution**
-  [[📝 Paper](https://arxiv.org/abs/2603.18718)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_03*) **MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution**
+    [[📝 Paper](https://arxiv.org/abs/2603.18718)]
 
-- [Foundation] (*arXiv'26_04*) **Multi-Agent Decision-Focused Learning via Value-Aware Sequential Communication (SeqComm-DFL)**
-  [[📝 Paper](https://arxiv.org/abs/2604.08944)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_04*) **Multi-Agent Decision-Focused Learning via Value-Aware Sequential Communication (SeqComm-DFL)**
+    [[📝 Paper](https://arxiv.org/abs/2604.08944)]
 
-- [Foundation] (*arXiv'26_04*) **SKILLFOUNDRY: Building Self-Evolving Agent Skill Libraries from Heterogeneous Scientific Resources**
-  [[📝 Paper](https://arxiv.org/abs/2604.03964)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_04*) **SKILLFOUNDRY: Building Self-Evolving Agent Skill Libraries from Heterogeneous Scientific Resources**
+    [[📝 Paper](https://arxiv.org/abs/2604.03964)]
 
-- [Foundation] (*arXiv'26_04*) **Skill Retrieval Augmentation for Agentic AI**
-  [[📝 Paper](https://arxiv.org/abs/2604.24594)] [[💻 Code](https://github.com/oneal2000/SR-Agents)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_04*) **Skill Retrieval Augmentation for Agentic AI**
+    [[📝 Paper](https://arxiv.org/abs/2604.24594)] [[💻 Code](https://github.com/oneal2000/SR-Agents)]
 
-- [Foundation] (*arXiv'26_04*) **ClawTrace: Cost-Aware Tracing for LLM Agent Skill Distillation**
-  [[📝 Paper](https://arxiv.org/abs/2604.23853)] [[💻 Code](https://github.com/epsilla-cloud/clawtrace)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_04*) **ClawTrace: Cost-Aware Tracing for LLM Agent Skill Distillation**
+    [[📝 Paper](https://arxiv.org/abs/2604.23853)] [[💻 Code](https://github.com/epsilla-cloud/clawtrace)]
 
-- [Foundation] (*arXiv'26_04*) **CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery**
-  [[📝 Paper](https://arxiv.org/abs/2604.01658)] [[💻 Code](https://github.com/Human-Agent-Society/CORAL)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_04*) **CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery**
+    [[📝 Paper](https://arxiv.org/abs/2604.01658)] [[💻 Code](https://github.com/Human-Agent-Society/CORAL)]
 
-- [Foundation] (*arXiv'26_04*) **CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification**
-  [[📝 Paper](https://arxiv.org/abs/2604.01687)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_04*) **CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification**
+    [[📝 Paper](https://arxiv.org/abs/2604.01687)]
 
-- [Foundation] (*arXiv'26_04*) **SEARL: Joint Optimization of Policy and Tool Graph Memory for Self-Evolving Agents**
-  [[📝 Paper](https://arxiv.org/abs/2604.07791)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_04*) **SEARL: Joint Optimization of Policy and Tool Graph Memory for Self-Evolving Agents**
+    [[📝 Paper](https://arxiv.org/abs/2604.07791)]
 
-- [Foundation] (*arXiv'26_03*) **Cognitive Friction: A Decision-Theoretic Framework for Bounded Deliberation in Tool-Using Agents**
-  [[📝 Paper](https://arxiv.org/abs/2603.30031)]
+-->
+<!--
+  - [Foundation] (*arXiv'26_03*) **Cognitive Friction: A Decision-Theoretic Framework for Bounded Deliberation in Tool-Using Agents**
+    [[📝 Paper](https://arxiv.org/abs/2603.30031)]
 
-- [Foundation] (*ICLR'26_10*) **CoT-Evo: Evolutionary Distillation of CoT for Scientific Reasoning**
-  [[📝 Paper](https://arxiv.org/abs/2510.13166)] [[💻 Code](https://github.com/Irving-Feng/CoT-Evo)]
+-->
+<!--
+  - [Foundation] (*ICLR'26_10*) **CoT-Evo: Evolutionary Distillation of CoT for Scientific Reasoning**
+    [[📝 Paper](https://arxiv.org/abs/2510.13166)] [[💻 Code](https://github.com/Irving-Feng/CoT-Evo)]
 
+-->
 - [Foundation] (*ICLR'26_10*) **EvoTest: Evolutionary Test-Time Learning for Self-Improving Agentic Systems**
   [[📝 Paper](https://arxiv.org/abs/2510.13220)] [[💻 Code](https://github.com/yf-he/EvoTest)]
 
@@ -1617,23 +1797,33 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Core] (*ICLR'26_09*) **KnowGuard: Knowledge-Driven Abstention for Multi-Round Clinical Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2509.24816)] [[🌐 ICLR](https://iclr.cc/virtual/2026/poster/10008150)] [[💻 Code](https://github.com/IcecreamArtist/KnowGuard)]
 
-- [Foundation] (*ICLR'26 Rejected*) **SkillEvo: An Experience Learning Framework with Reinforcement Learning for Skill Evolution**
-  [[📝 Paper](https://openreview.net/forum?id=S1cIE9pe3k)]
+<!--
+  - [Foundation] (*ICLR'26 Rejected*) **SkillEvo: An Experience Learning Framework with Reinforcement Learning for Skill Evolution**
+    [[📝 Paper](https://openreview.net/forum?id=S1cIE9pe3k)]
 
-- [Foundation] (*EMNLP'25 Demo*) **EvoAgentX: An Automated Framework for Evolving Agentic Workflows**
-  [[📝 Paper](https://aclanthology.org/2025.emnlp-demos.47/)] [[💻 Code](https://github.com/EvoAgentX/EvoAgentX)]
+-->
+<!--
+  - [Foundation] (*EMNLP'25 Demo*) **EvoAgentX: An Automated Framework for Evolving Agentic Workflows**
+    [[📝 Paper](https://aclanthology.org/2025.emnlp-demos.47/)] [[💻 Code](https://github.com/EvoAgentX/EvoAgentX)]
 
-- [Foundation] (*arXiv'25_02*) **EvoAgent: Self-evolving Agent with Continual World Model for Long-Horizon Tasks**
-  [[📝 Paper](https://arxiv.org/abs/2502.05907)] [[💻 Code](https://github.com/siyuyuan/evoagent)]
+-->
+<!--
+  - [Foundation] (*arXiv'25_02*) **EvoAgent: Self-evolving Agent with Continual World Model for Long-Horizon Tasks**
+    [[📝 Paper](https://arxiv.org/abs/2502.05907)] [[💻 Code](https://github.com/siyuyuan/evoagent)]
 
-- [Foundation] (*arXiv'23_12*) **ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**
-  [[📝 Paper](https://arxiv.org/abs/2312.10003)]
+-->
+<!--
+  - [Foundation] (*arXiv'23_12*) **ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**
+    [[📝 Paper](https://arxiv.org/abs/2312.10003)]
 
-- [Foundation] (*arXiv'23_06*) **SELFEVOLVE: A Code Evolution Framework via Large Language Models**
-  [[📝 Paper](https://arxiv.org/abs/2306.02907)]
+-->
+<!--
+  - [Foundation] (*arXiv'23_06*) **SELFEVOLVE: A Code Evolution Framework via Large Language Models**
+    [[📝 Paper](https://arxiv.org/abs/2306.02907)]
 
----
+  ---
 
+-->
 ## 🔗 Related Repositories
 
 - **Awesome-Self-Evolving-AI-for-Agentic-Healthcare**
@@ -1679,7 +1869,7 @@ This repository is distilled and adapted for **Awesome-Hermes-Agent-in-Healthcar
 
 [Back to Content](#contents)
 
-Your contributions are always welcome! Please contact [Zhihao Peng](mailto:zhihaopeng@cuhk.edu.hk) or [Cheng Wang](mailto:chengwang@link.cuhk.edu.hk).
+Your contributions are always welcome! Please contact [Zhihao Peng](mailto:zhihaopeng@cuhk.edu.hk)<!-- or [Cheng Wang](mailto:chengwang@link.cuhk.edu.hk) -->.
 
 If you find relevant papers, codebases, benchmarks, or project pages related to **healthcare agents**, **agent memory**, **agent skills**, **self-evolution**, or **clinical agent evaluation and governance**, feel free to:
 
@@ -1709,7 +1899,8 @@ Please try to keep the formatting consistent with the existing entries. Prefer a
 
 - **Borderline platform papers** — exclude when the contribution is primarily: **Web services or cloud home-care** without a stated multi-agent design; **generic IoT / sensor monitoring or wellness dashboards** without agent-centric methods; **generic distributed MAS architecture** without healthcare-centric evaluation; **preventive-medicine or network influenza** models that are disease models rather than clinical information agents; **ubiquitous fitness / physical-activity** sensor platforms without agent methods; **biology-style immune** simulations described as decentralized processes rather than clinical AI agents.
 
-These rules keep the repository aligned with **healthcare agents, memory, skills, self-evolution, and clinical agent evaluation**, not ABM-for-disease-modeling alone. -->
+These rules keep the repository aligned with **healthcare agents, memory, skills, self-evolution, and clinical agent evaluation**, not ABM-for-disease-modeling alone.
+-->
 
 ---
 
@@ -1717,4 +1908,4 @@ These rules keep the repository aligned with **healthcare agents, memory, skills
 
 If you have any questions or suggestions, please feel free to contact us via:
 
-**Email:** zhihaopeng@cuhk.edu.hk, chengwang@link.cuhk.edu.hk
+**Email:** zhihaopeng@cuhk.edu.hk<!-- , chengwang@link.cuhk.edu.hk -->
