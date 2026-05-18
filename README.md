@@ -766,6 +766,9 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Core] (*arXiv'25_02*) **PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology**
   [[📝 Paper](https://arxiv.org/pdf/2502.08916)]
 
+- [Foundation][Evolution] (*NeurIPS'25*) **SiriuS: Self-improving Multi-agent Systems via Bootstrapped Reasoning**
+  [[📝 Paper](https://arxiv.org/abs/2502.04780)] [[💻 Code](https://github.com/zou-group/sirius)]
+
 <!--
   - [Foundation] (*arXiv'25_02*) **EvoAgent: Self-evolving Agent with Continual World Model for Long-Horizon Tasks**
     [[📝 Paper](https://arxiv.org/abs/2502.05907)] [[💻 Code](https://github.com/siyuyuan/evoagent)]
@@ -1826,6 +1829,9 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 -->
 - [Foundation] (*ICLR'26_10*) **EvoTest: Evolutionary Test-Time Learning for Self-Improving Agentic Systems**
   [[📝 Paper](https://arxiv.org/abs/2510.13220)] [[💻 Code](https://github.com/yf-he/EvoTest)]
+
+- [Foundation][Evolution] (*NeurIPS'25*) **SiriuS: Self-improving Multi-agent Systems via Bootstrapped Reasoning**
+  [[📝 Paper](https://arxiv.org/abs/2502.04780)] [[💻 Code](https://github.com/zou-group/sirius)]
 
 - [Core] (*ICLR'26_10*) **Doctor-R1: Mastering Clinical Inquiry with Experiential Agentic Reinforcement Learning**
   [[📝 Paper](https://arxiv.org/abs/2510.04284)] [[🌐 ICLR](https://iclr.cc/virtual/2026/poster/10006814)] [[💻 Code](https://github.com/thu-unicorn/Doctor-R1)]
