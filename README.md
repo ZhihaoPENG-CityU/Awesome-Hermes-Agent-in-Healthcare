@@ -138,6 +138,24 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Core] (*arXiv'26_05*) **Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model**
   [[📝 Paper](https://arxiv.org/abs/2605.14723)] [[💻 Code](https://github.com/FreedomIntelligence/SepsisAgent)]
 
+- [Foundation][Memory][Evolution] (*arXiv'26_05*) **SAGE: A Self-Evolving Agentic Graph-Memory Engine for Structure-Aware Associative Memory**
+  [[📝 Paper](https://arxiv.org/abs/2605.12061)]
+
+- [Foundation][Evolution][Eval] (*arXiv'26_05*) **On-Policy Self-Evolution via Failure Trajectories for Agentic Safety Alignment (FATE)**
+  [[📝 Paper](https://arxiv.org/abs/2605.11882)]
+
+- [Foundation][Eval] (*arXiv'26_05*) **Agent-ValueBench: A Comprehensive Benchmark for Evaluating Agent Values**
+  [[📝 Paper](https://arxiv.org/abs/2605.10365)]
+
+- [Core][Eval] (*arXiv'26_05*) **AgentRx: A Benchmark Study of LLM Agents for Multimodal Clinical Prediction Tasks**
+  [[📝 Paper](https://arxiv.org/abs/2605.10286)] [[💻 Code](https://github.com/nyuad-cai/AgentRX)]
+
+- [Foundation] (*arXiv'26_05*) **MCP-Cosmos: World Model-Augmented Agents for Complex Task Execution in MCP Environments**
+  [[📝 Paper](https://arxiv.org/abs/2605.09131)]
+
+- [Core][Eval] (*arXiv'26_05*) **Measuring What Matters: Benchmarking Generative, Multimodal, and Agentic AI in Healthcare**
+  [[📝 Paper](https://arxiv.org/abs/2605.08445)]
+
 - [Foundation] (*arXiv'26_05*) **MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems**
   [[📝 Paper](https://arxiv.org/abs/2605.06623)] [[💻 Code](https://github.com/wangzx1219/MASPO)]
 
@@ -1236,6 +1254,12 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Core] (*arXiv'24_05*) **AgentClinic: A Multimodal Agent Benchmark to Evaluate AI in Simulated Clinical Environments**
   [[📝 Paper](https://arxiv.org/abs/2405.07960)] [[🌐 Project](https://agentclinic.github.io)] [[💻 Code](https://github.com/samuelschmidgall/agentclinic)]
 
+- [Core][Eval] (*arXiv'26_05*) **AgentRx: A Benchmark Study of LLM Agents for Multimodal Clinical Prediction Tasks**
+  [[📝 Paper](https://arxiv.org/abs/2605.10286)] [[💻 Code](https://github.com/nyuad-cai/AgentRX)]
+
+- [Core][Eval] (*arXiv'26_05*) **Measuring What Matters: Benchmarking Generative, Multimodal, and Agentic AI in Healthcare**
+  [[📝 Paper](https://arxiv.org/abs/2605.08445)]
+
 - [Core] (*arXiv'26_05*) **PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments**
   [[📝 Paper](https://arxiv.org/abs/2605.02240)]
 
@@ -1579,6 +1603,15 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 
 ### Ethics, Safety, and Limits
 
+- [Foundation][Evolution][Eval] (*arXiv'26_05*) **On-Policy Self-Evolution via Failure Trajectories for Agentic Safety Alignment (FATE)**
+  [[📝 Paper](https://arxiv.org/abs/2605.11882)]
+
+- [Foundation][Eval] (*arXiv'26_05*) **Agent-ValueBench: A Comprehensive Benchmark for Evaluating Agent Values**
+  [[📝 Paper](https://arxiv.org/abs/2605.10365)]
+
+- [Core][Eval] (*arXiv'26_05*) **Measuring What Matters: Benchmarking Generative, Multimodal, and Agentic AI in Healthcare**
+  [[📝 Paper](https://arxiv.org/abs/2605.08445)]
+
 - [Core] (*Cambridge Open Engage'26*) **Artificial Epidemiology: How Self-Evolving Clinical AI Manufactures Disease Prevalence from Administrative Coding Artifacts**
   [[📝 Paper](https://doi.org/10.33774/coe-2026-ssm1q)]
 
@@ -1613,6 +1646,15 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
   [[📝 Paper](https://www.medrxiv.org/content/10.1101/2025.08.23.25334280v2)]
 
 ### General Self-Evolving Frameworks and Methods
+
+- [Foundation][Memory][Evolution] (*arXiv'26_05*) **SAGE: A Self-Evolving Agentic Graph-Memory Engine for Structure-Aware Associative Memory**
+  [[📝 Paper](https://arxiv.org/abs/2605.12061)]
+
+- [Foundation][Evolution][Eval] (*arXiv'26_05*) **On-Policy Self-Evolution via Failure Trajectories for Agentic Safety Alignment (FATE)**
+  [[📝 Paper](https://arxiv.org/abs/2605.11882)]
+
+- [Foundation] (*arXiv'26_05*) **MCP-Cosmos: World Model-Augmented Agents for Complex Task Execution in MCP Environments**
+  [[📝 Paper](https://arxiv.org/abs/2605.09131)]
 
 <!--
   - [Foundation] (*arXiv'26_03*) **Meta-Harness: End-to-End Optimization of Model Harnesses**
