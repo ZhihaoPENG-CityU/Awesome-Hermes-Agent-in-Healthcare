@@ -135,8 +135,23 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
     [[📝 Paper](https://arxiv.org/abs/2605.14865)]
 
 -->
+- [Foundation][Eval] (*arXiv'26_05*) **From Model Scaling to System Scaling: Scaling the Harness in Agentic AI**
+  [[📝 Paper](https://arxiv.org/abs/2605.26112)]
+
+- [Foundation][Eval] (*arXiv'26_05*) **A Sober Look at Agentic Misalignment in Automated Workflows**
+  [[📝 Paper](https://arxiv.org/abs/2605.24197)]
+
+- [Foundation][Eval][Skill][Evolution] (*arXiv'26_05*) **SkillEvolBench: Benchmarking the Evolution from Episodic Experience to Procedural Skills**
+  [[📝 Paper](https://arxiv.org/abs/2605.24117)] [[🌐 Project](https://skillevolbench.github.io/)]
+
+- [Core][Skill] (*arXiv'26_05*) **ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning**
+  [[📝 Paper](https://arxiv.org/abs/2605.20176)]
+
 - [Core] (*arXiv'26_05*) **Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model**
   [[📝 Paper](https://arxiv.org/abs/2605.14723)] [[💻 Code](https://github.com/FreedomIntelligence/SepsisAgent)]
+
+- [Core][Skill] (*arXiv'26_05*) **DermAgent: A Self-Reflective Agentic System for Dermatological Image Analysis with Multi-Tool Reasoning and Traceable Decision-Making**
+  [[📝 Paper](https://arxiv.org/abs/2605.14403)]
 
 - [Foundation][Memory][Evolution] (*arXiv'26_05*) **SAGE: A Self-Evolving Agentic Graph-Memory Engine for Structure-Aware Associative Memory**
   [[📝 Paper](https://arxiv.org/abs/2605.12061)]
@@ -836,6 +851,9 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 - [Eval] (*npj AI'26*) **AI agent in healthcare: applications, evaluations, and future directions**
   [[📝 Paper](https://www.nature.com/articles/s44387-026-00076-4)]
 
+- [Eval] (*arXiv'26_05*) **Towards Trustworthy Agentic AI: A Comprehensive Survey of Safety, Robustness, Privacy, and System Security**
+  [[📝 Paper](https://arxiv.org/abs/2605.23989)]
+
 - [Eval] (*arXiv'26_05*) **Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems**
   [[📝 Paper](https://arxiv.org/abs/2605.14892)]
 
@@ -1236,6 +1254,12 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 
 ### Medical Diagnosis and Consultation
 
+- [Core][Skill] (*arXiv'26_05*) **ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning**
+  [[📝 Paper](https://arxiv.org/abs/2605.20176)]
+
+- [Core][Skill] (*arXiv'26_05*) **DermAgent: A Self-Reflective Agentic System for Dermatological Image Analysis with Multi-Tool Reasoning and Traceable Decision-Making**
+  [[📝 Paper](https://arxiv.org/abs/2605.14403)]
+
 - [Core] (*arXiv'26_03*) **MediHive: A Decentralized Agent Collective for Medical Question Answering**
   [[📝 Paper](https://arxiv.org/abs/2603.27150)]
 
@@ -1362,6 +1386,12 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
   [[📝 Paper](https://arxiv.org/pdf/2502.08916)]
 
 ### Medical Imaging and Theranostics
+
+- [Core][Skill] (*arXiv'26_05*) **ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning**
+  [[📝 Paper](https://arxiv.org/abs/2605.20176)]
+
+- [Core][Skill] (*arXiv'26_05*) **DermAgent: A Self-Reflective Agentic System for Dermatological Image Analysis with Multi-Tool Reasoning and Traceable Decision-Making**
+  [[📝 Paper](https://arxiv.org/abs/2605.14403)]
 
 - [Core] (*arXiv'26_05*) **NeuroAgent: LLM Agents for Multimodal Neuroimaging Analysis and Research**
   [[📝 Paper](https://arxiv.org/abs/2605.06584)]
@@ -1606,6 +1636,12 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 
 ### Ethics, Safety, and Limits
 
+- [Eval] (*arXiv'26_05*) **Towards Trustworthy Agentic AI: A Comprehensive Survey of Safety, Robustness, Privacy, and System Security**
+  [[📝 Paper](https://arxiv.org/abs/2605.23989)]
+
+- [Foundation][Eval] (*arXiv'26_05*) **A Sober Look at Agentic Misalignment in Automated Workflows**
+  [[📝 Paper](https://arxiv.org/abs/2605.24197)]
+
 - [Foundation][Evolution][Eval] (*arXiv'26_05*) **On-Policy Self-Evolution via Failure Trajectories for Agentic Safety Alignment (FATE)**
   [[📝 Paper](https://arxiv.org/abs/2605.11882)]
 
@@ -1649,6 +1685,12 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
   [[📝 Paper](https://www.medrxiv.org/content/10.1101/2025.08.23.25334280v2)]
 
 ### General Self-Evolving Frameworks and Methods
+
+- [Foundation][Eval] (*arXiv'26_05*) **From Model Scaling to System Scaling: Scaling the Harness in Agentic AI**
+  [[📝 Paper](https://arxiv.org/abs/2605.26112)]
+
+- [Foundation][Eval][Skill][Evolution] (*arXiv'26_05*) **SkillEvolBench: Benchmarking the Evolution from Episodic Experience to Procedural Skills**
+  [[📝 Paper](https://arxiv.org/abs/2605.24117)] [[🌐 Project](https://skillevolbench.github.io/)]
 
 - [Foundation][Memory][Evolution] (*arXiv'26_05*) **SAGE: A Self-Evolving Agentic Graph-Memory Engine for Structure-Aware Associative Memory**
   [[📝 Paper](https://arxiv.org/abs/2605.12061)]
