@@ -130,6 +130,21 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
     [[📝 Paper](https://arxiv.org/abs/2605.14968)]
 
 -->
+- [Foundation][Eval] (*arXiv'26_06*) **An Infectious Disease Spread Simulation Based on Large Language Model Decision Making**
+  [[📝 Paper](https://arxiv.org/abs/2606.06360)]
+
+- [Core] (*arXiv'26_06*) **D2MDT: Department-aware Multidisciplinary Team Consultation with Deliberation for Efficient Clinical Prediction**
+  [[📝 Paper](https://arxiv.org/abs/2606.03543)] [[💻 Code](https://github.com/GigiResearch/D2MDT)]
+
+- [Core] (*arXiv'26_06*) **MeDxAgent: Multi-Agent Consultation for Interactive Medical Diagnosis**
+  [[📝 Paper](https://arxiv.org/abs/2606.03416)]
+
+- [Core][Evolution] (*arXiv'26_06*) **Better with Experience: Self-Evolving LLM Agents for Evidence-Grounded Health Community Notes (EvoNote)**
+  [[📝 Paper](https://arxiv.org/abs/2606.02215)]
+
+- [Core][Skill] (*arXiv'26_06*) **Probe Before You Edit: Probing-Guided Molecular Optimization for LLM Agents in Structure-Based Drug Design**
+  [[📝 Paper](https://arxiv.org/abs/2606.00555)]
+
 <!--
   - [Foundation] (*arXiv'26_05*) **Holistic Evaluation and Failure Diagnosis of AI Agents**
     [[📝 Paper](https://arxiv.org/abs/2605.14865)]
@@ -137,6 +152,9 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 -->
 - [Foundation][Eval] (*arXiv'26_05*) **From Model Scaling to System Scaling: Scaling the Harness in Agentic AI**
   [[📝 Paper](https://arxiv.org/abs/2605.26112)]
+
+- [Core][Eval] (*arXiv'26_05*) **SafeRx-Agent: A Knowledge-Grounded Multi-Agent Framework for Safe and Explainable Medication Recommendation**
+  [[📝 Paper](https://arxiv.org/abs/2605.29146)]
 
 - [Foundation][Eval] (*arXiv'26_05*) **A Sober Look at Agentic Misalignment in Automated Workflows**
   [[📝 Paper](https://arxiv.org/abs/2605.24197)]
@@ -620,6 +638,9 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 
 - [Core] (*arXiv'26_01*) **EvoClinician: A Self-Evolving Agent for Multi-Turn Medical Diagnosis via Test-Time Evolutionary Learning**
   [[📝 Paper](https://arxiv.org/abs/2601.22964)] [[💻 Code](https://github.com/yf-he/EvoClinician)]
+
+- [Core] (*npj Digital Medicine'26*) **Human-AI co-design for clinical prediction models (HACHI)**
+  [[📝 Paper](https://arxiv.org/abs/2601.09072)] [[Nature](https://www.nature.com/articles/s41746-026-02838-5)] [[💻 Code](https://github.com/jjfenglab/HACHI)]
 
 - [Core] (*arXiv'26_01*) **Route, Retrieve, Reflect, Repair (R⁴): Self-Improving Agentic Framework for Visual Detection and Linguistic Reasoning in Medical Imaging**
   [[📝 Paper](https://arxiv.org/abs/2601.08192)] [[💻 Code](https://github.com/faiyazabdullah/MultimodalMedAgent)]
@@ -1254,6 +1275,9 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 
 ### Medical Diagnosis and Consultation
 
+- [Core] (*arXiv'26_06*) **MeDxAgent: Multi-Agent Consultation for Interactive Medical Diagnosis**
+  [[📝 Paper](https://arxiv.org/abs/2606.03416)]
+
 - [Core][Skill] (*arXiv'26_05*) **ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2605.20176)]
 
@@ -1459,6 +1483,9 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 
 ### Clinical Simulation and Virtual Clinical Environments
 
+- [Foundation][Eval] (*arXiv'26_06*) **An Infectious Disease Spread Simulation Based on Large Language Model Decision Making**
+  [[📝 Paper](https://arxiv.org/abs/2606.06360)]
+
 - [Core] (*arXiv'26_03*) **OpenHospital: A Thing-in-itself Arena for Evolving and Benchmarking LLM-based Collective Intelligence**
   [[📝 Paper](https://arxiv.org/abs/2603.14771)] [[💻 Code](https://github.com/ZJU-LLMs/Agent-Kernel/tree/main/demo/OpenHospital)]
 
@@ -1481,6 +1508,9 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
   [[📝 Paper](https://arxiv.org/abs/2405.07960)] [[🌐 Project](https://agentclinic.github.io)] [[💻 Code](https://github.com/samuelschmidgall/agentclinic)]
 
 ### Biomedical and Healthcare Research
+
+- [Core][Skill] (*arXiv'26_06*) **Probe Before You Edit: Probing-Guided Molecular Optimization for LLM Agents in Structure-Based Drug Design**
+  [[📝 Paper](https://arxiv.org/abs/2606.00555)]
 
 - [Core] (*AACR Annual Meeting'26*) **Agentic AI as the Cancer Researcher: Autonomous Discovery in Oncology**
   [[🌐 Program](https://www.aacr.org/meeting/aacr-annual-meeting-2026/program/)]
@@ -1564,6 +1594,15 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
 
 ### Clinical Decision-Making and Trial Optimization
 
+- [Core] (*arXiv'26_06*) **D2MDT: Department-aware Multidisciplinary Team Consultation with Deliberation for Efficient Clinical Prediction**
+  [[📝 Paper](https://arxiv.org/abs/2606.03543)] [[💻 Code](https://github.com/GigiResearch/D2MDT)]
+
+- [Core][Eval] (*arXiv'26_05*) **SafeRx-Agent: A Knowledge-Grounded Multi-Agent Framework for Safe and Explainable Medication Recommendation**
+  [[📝 Paper](https://arxiv.org/abs/2605.29146)]
+
+- [Core] (*npj Digital Medicine'26*) **Human-AI co-design for clinical prediction models (HACHI)**
+  [[📝 Paper](https://arxiv.org/abs/2601.09072)] [[Nature](https://www.nature.com/articles/s41746-026-02838-5)] [[💻 Code](https://github.com/jjfenglab/HACHI)]
+
 - [Core] (*arXiv'26_03*) **Symphony for Medical Coding: A Next-Generation Agentic System for Scalable and Explainable Medical Coding**
   [[📝 Paper](https://arxiv.org/abs/2603.29709)]
 
@@ -1606,6 +1645,9 @@ Entries are curated with a primary scope tag and, when useful, one or more capab
   [[📝 Paper](https://arxiv.org/abs/2503.13205)]
 
 ### Health Communication and Alignment
+
+- [Core][Evolution] (*arXiv'26_06*) **Better with Experience: Self-Evolving LLM Agents for Evidence-Grounded Health Community Notes (EvoNote)**
+  [[📝 Paper](https://arxiv.org/abs/2606.02215)]
 
 - [Eval] (*J. Med. Syst.'26*) **When Chatbots Become Agents: The Next Phase of Healthcare AI**
   [[📝 Paper](https://doi.org/10.1007/s10916-026-02402-4)]
